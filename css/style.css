@@ -3,7 +3,8 @@ body {
 }
 
 h1 {
-    font-size: 5em; /* 40px/16=2.5em */
+    color: green;
+    font-size: 4em; /* 40px/16=2.5em */
     font-weight: 1000;
 }
 .row {
