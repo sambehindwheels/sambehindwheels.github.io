@@ -3,8 +3,8 @@ body {
 }
 
 h1 {
-    color: green;
-    font-size: 4em; /* 40px/16=2.5em */
+    color: white;
+    font-size: 3em; /* 40px/16=2.5em */
     font-weight: 1000;
 }
 .row {
@@ -42,7 +42,7 @@ h1 {
     text-align: left;
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 40%;
     transform: translate(-50%, -50%);
     padding-left: 10px;
     padding-right:10px;
